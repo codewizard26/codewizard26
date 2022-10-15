@@ -17,5 +17,5 @@
 
 [2.1]: https://imgur.com/gallery/OQUXwNp
 
-[1]:https://www.linkedin.com/in/nikhilmishra26/
-[2]: https://twitter.com/nikhilmishraall
+[2]:https://www.linkedin.com/in/nikhilmishra26/
+[1]: https://twitter.com/nikhilmishraall
