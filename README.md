@@ -15,7 +15,6 @@
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
-[2.1]: https://imgur.com/gallery/OQUXwNp
 
-[2]:https://www.linkedin.com/in/nikhilmishra26/
+
 [1]: https://twitter.com/nikhilmishraall
