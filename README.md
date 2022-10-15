@@ -7,5 +7,15 @@
 
 
 - 📫 How to reach me ...
-- https://www.linkedin.com/in/nikhilmishra26/
-- https://twitter.com/nikhilmishraall
+
+[![alt text][1.1]][1]
+
+[![alt text][2.1]][2]
+
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+
+[2.1]: https://imgur.com/gallery/OQUXwNp
+
+[1]:https://www.linkedin.com/in/nikhilmishra26/
+[2]: https://twitter.com/nikhilmishraall
